@@ -32,3 +32,4 @@ Granular Comparison: A detailed "Outlet Type" table comparing Grocery Stores and
 
 
 Demo Screenshot
+https://github.com/TeteSejal/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard%20SS.png
